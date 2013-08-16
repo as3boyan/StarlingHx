@@ -1,0 +1,12 @@
+{
+ "name": "starling.hx",
+ "url" : "https://github.com/as3boyan/StarlingHx",
+ "license": "BSD",
+ "tags": ["starling","game","framework","flash","gpu"],
+ "description": "Haxe externs for Starling",
+ "version": "1.0.0",
+ "releasenote": "release",
+ "contributors": ["as3boyan"],
+ "dependencies": { 
+ }
+}
